@@ -1,0 +1,10 @@
+.gitignore
+
+.node_modules/
+
+/unpackage/
+
+/.idea/
+/node_modules/*
+
+/.hbuilderx/launch.json
